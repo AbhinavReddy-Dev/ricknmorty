@@ -1,3 +1,4 @@
+
 # RicknMorty
 ## About RicknMorty 🤓
 - It is React based project which uses axios to get data from external API source.
